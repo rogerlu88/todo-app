@@ -1,0 +1,1 @@
+A simple and intuitive web application that allows users to manage their daily to-do list activities. Built with Node.js, Express, HTML, CSS, and JavaScript, the app supports adding tasks, deleting tasks, and provides a basic framework for expanding with additional features like notifications or task persistence.
